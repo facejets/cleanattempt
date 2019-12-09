@@ -1,0 +1,9 @@
+there are only adventurers which you outfit
+they have goals which they will discuss
+they will eventually die when the dungeon gets too hard
+you want to extract all the money
+they will drop when they die
+the dungeon is simulated, and you can gather info on it
+you can give tips to heros
+you can give them nice eq
+you can starve them to get better prices

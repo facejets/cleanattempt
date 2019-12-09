@@ -1,0 +1,1 @@
+for this module we define the action of a matrix on a vector by matrix multiplication.  That is, we treat the scalar as a linear map.  This example shows that modules can venture places where vector spaces cannot go

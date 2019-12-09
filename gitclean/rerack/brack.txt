@@ -1,0 +1,4 @@
+create new unity project
+under windows/package manager, add input system - it is hidden under advanced tab
+now restart, and input system is there
+

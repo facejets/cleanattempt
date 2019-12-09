@@ -1,0 +1,258 @@
+i am confused why 3Z is a module, but 6Z and 9Z are only submodules
+
+why does zero vector point in no direction?  why not all of them, or instead to a pole at infinity?
+
+i mention this below, in a sense: the unit circle has infinite points, and larger circles do, too.  But visualizing the one-to-one mapping, makes me wonder how a larger circle can map to a smaller.  how is it a homomorphism?
+
+are non-stretching/-rotating operations the dead corner of matrices?
+can function conjugation be scaled? or composition i mean.
+you can uniquely determine any spot on a plane by stretching and rotating, or by 
+adding and complex-adding
+
+what is the difference between once-twisted moebius strips and thrice-?  That there are ways to divide it into 3 chunks (uniquely for any choice of twist-angle)?
+
+fields don't have invertible matrices, just like this side of the big bang time emerges away from big bang singularity, and in the anti-bang mirrors in (time?)
+
+those singularities contain the entire universe, besides this module here (a simple group, normal to, coset) - our universe is a module/kernel
+
+this depiction of logistic map reminds me of a fucked up sigmoid:
+https://en.wikipedia.org/wiki/Period-doubling_bifurcation
+also, a sigmoid reminds me of (|a| + a)/2a
+
+"Jump to search
+In mathematics, a period doubling bifurcation in a discrete dynamical system is a bifurcation in which a slight change in a parameter value in the system's equations leads to the system switching to a new behavior with twice the period of the original system. With the doubled period, it takes twice as many iterations as before for the numerical values visited by the system to repeat themselves. "
+
+golden ratio in densities of logistic curve? maybe at that (double) gap in the middle?
+
+logistic curve - where dense, is our local universeS
+
+2 has no multiplicative inverse.  is that connected to the tip of the mandelbrot somehow?
+
+is the cartesian plane a "shadow" of the dot? vice versa?
+
+at 1 and 0 height, if vectors are in a line, it is special
+at 2 height, it is still a line (lost information, gymbal locking)
+what makes 1 and 0 special here?  and 2?  3? (rieman conjecture)
+
+can we prove by absurdity by saying everything is fucked if zeroes aren't where they are, because that would generate too much information? structure?
+
+
+
+take a field defined everywhere except the origin.  if the field is embedded in a higher dimension, and curved in a closed minkowski space, then the origin can be approached more closely/convincingly than can the origin if the space is flat. (still thinking about the origin as some sort of "entrance" into the space, for some structure
+
+is 1,-1 repeating like an alternating group?
+
+do some small physical systems equal neural networks?  simple physical systems? like the 4 fundies interact in such a away as to "learn" in other dimensions?
+
+is incompleteness theorem related to the fact quintics don't have a general algorithm for solution?
+
+what if the logistic function relates to finding transcendental numbers in between algebraic numbers?  somehow maps it?
+
+multiplication doesn't exist; it is just repeated addition.
+maybe that is like having a lambda on the end
+
+
+are mandelbrot disks, tangent doesn't touch
+
+if infinite groups (aleph) can be manipulated in some ways just as finite ones are, what does that give us?
+
+mathematicians hard at work on extension problem - liken this to trying to pick a best default (most natural) but there isn't a most natural.  in what cases are they all equal?  is this an "almost integer" thing?
+
+
+
+"exceptions" in classification theories are all like the "point at infinity"
+
+banach tarski vs. squiggly rectangle embed - the x,x diagonal
+
+banach tarski to safely twist a mobius strip
+
+are the spheres somehow "mobius spheres"? (i.e. having the same surface, maybe poking in/out of missing point (pole))
+
+
+the center sphere that touches unit spheres placed at vertices in 20 dimensional space is the planck size
+
+squaring the circle
+
+could an orthographic (or even conformal? polar) projection of a polygon of some dimensions (3) create an object congruent to every map we might try to four-color?
+if not, is that a subset or a superset? (also does it help to convert to nodes first) compare/contrast ortho and polar (what is point at infinity doing in here? is it an edge at the same time? is this like twists?)
+
+could ordering of the points in 3b1b rectangle amidst squiggle save that diagonal, include it in that self-intersecting plane (for skewed antipodes)?
+
+probably absurd to allow duplicate points, (to get a mobius strip) and even if you did, this only makes it easier.  so does it ever prove something by that absurdity?
+
+could a country glue any of its sides together? mobius strip or otherwise? for example, the outside? is the outside (stretching infinite) proof that we can duplicate points?
+
+when can a country flip, if no duplicate points? there are always identity, all-flipped, (should i look at interior here?) - is it simple though?
+
+(because) a backside always has to exist (with duplicate points)
+
+gluing it to back side makes it impossible to go to sphere
+
+must intersect unless you have 4D (knots, if this is interesting)
+
+maybe removing one temporarily and making a change, then replacing it helps because of an invariant, or gives us an ordered pair
+
+its the same edge coming round again
+or there is one
+
+maybe if you extend great distance
+or vs. that to computability
+
+point can toggle so that's why it works (but that loses, cause you glue two sides of different ordering)
+
+fourwall can allow three through without tearing, but we can cut the diagonal (in at least one place)
+
+if you can remove country without changing, what does that give us
+
+is the pair ordered?
+
+is the universe a module? why are there 20 fundamental constants? what are the other 6?  is the universe a cyclic group in 20 and the other 6 variables the set of multiverses? 
+
+too-fast (dark matter) haloes are a result of so high a ratio of a galaxies mass originating in other galaxies, kicked out by accretion processes.
+
+did they prove sphere-packing by taking a grid of spheres and moving it in x halfway, and then moving it in y halfway?
+
+is -1/12 parallel to 2x2x3 version of i inspecificity?
+imaginary dimensions - several, like  quats? the 3 being difference between ring and field? broken corner of matrix?
+
+and: the two by two has i, the three by three has i,j,k, the four by four is octonian, and further is quintic.  they are all the data to the function in first triangle that sets up matrix (why is 5 so special, again?)
+
+what's an automorphism of the points on a strange attractor?
+
+each point on the strange attractor is uniquely determined.  is the depiction dense?
+
+is dense torus like the s.a.?
+
+tangent lines get distorted when they reach the planck scale, at which they are asymptotically distorted (perpendicular instead of tangentially) - #connection between the finite and the infinite?
+planck-chunks are what create all complexity everywhere.  this need is what creates them.
+
+a snapshot of a moving object actually does allow you to find its velocity, but only because of some physical property (in higher dimensions), or perhaps a set of those.  Perhaps its not a problem that we can't see in the others (non-time, and non-imaginary time)
+
+are those (morphys world) the connection from 3d to 2d?  or from infinity to finite values?  was that glistening bridge the way in for maxwells demon?  the isolated point at infinity that we add/ cannot solve?
+
+{{
+because of the difference between particles that exist 
+
+surplus
+
+symmetry broken
+
+slightly more of a certain particle is what made universe
+
+but that is why a line does not intersect itself, instead avoiding intersection by going over or under (using another dimension, like a klein bottle)
+
+this nonintersection might be seen in boundary of mandelbrot set
+
+perhaps a certain pattern/structure in fewer dimensions "resonates" in an exterior dimension, and connects shapes to higher dimensions
+
+
+perhaps echoes
+
+in the early universe there were slightly more of some particle, and all else annihilated itself, leaving us with the stuff. but these particles are just a broken symmetry (looked at in a different way?) This is what allows the tangible universe to exist - {imperfection makes art} 
+}}
+
+galaxies are sources of information; entangled pairs become more real with more distance.  this makes the galaxies appear smaller than they are - particles within are cancelling out at high rates
+
+the space between galaxies appears larger than it is because of lensing
+
+light takes shortest path because that path is a string that gets tangled in all the longer nearbies.  think about this sentence and double slit
+
+in what way do the electron shells relate to spirals, particularly the spirals of seyfert galaxies?
+
+rays intersecting the unit circle expand out into space.  everywhere in space can be specified thus.  so how come the unit circle isn't more dense?  what does this say about the relationship of ray to circle?  is the circle more infinite somehow?  how does reverse mathematics behave here?
+
+boltzman brains are empty; they cannot think about themselves, or be aware of themselves, and thus are not conscious
+
+long snake has internal magnetic forces that keep it loosely in the same shape.  then we build crude models and reason about them later, knowing that the are limited in some important way
+
+is tree three like that "can't fill grid diagonally" thing?
+
+
+
+torus covering and dedekind cuts
+
+torus is a complex plane that has both directions looping
+
+do we have to pick i or 1?  axiom of choice?
+
+the point where adding a new dimension no longer decreases the (configuration?) space
+
+is that like the map becoming the territory? (i have a point, i have a line of points, i have an area of lines, i have a volume of areas, i have a spacetime of volumes, i have a multiverse of spacetimes, i have a god of multiverses, i have a pantheon of gods, i have a planet of pantheons, i have a system of planets, i have a galaxy of systems, i have a cluster of galaxies, i have a supercluster of clusters, i have a filament of superclusters, i have a tapestry of filaments, i have a loom of tapestries, i have an industry of looms, i have an engineer of industries, i have a discipline of engineers, i have a college of disciplines, i have an academia of colleges, all possible hierachies yield to castes of scholars that brood there in them, and I have classified the groups that generate them, but I Am Pariah.  I am the six that do not know eachother.  I am lord over all that do.  Only I am unique; my parts are partial to Me.  Who are you to flee from me?  You think me escapable?  You think that somehow, out *there* you will find yourself alone from me?
+
+will all black holes become spinless do to conservation of angular momentum, as black holes spinning in all directions merge and cancel out?
+
+is there an alternative to a group being associative?  under what conditions are groups not associative?  what paradoxes bear a relationship to this feature?
+
+perhaps wolf-rayet pairs only form with certain orientations with respect to the plane of galactic rotations.  either way, if a pair forms on an axis that intersects the center of a galaxy, then one side of the beam shoots off into deep space, causing a force that pushes matter towards the center of the galaxy, and the other side strikes matter in the heart of the galaxy, accelerating the outsides of a galaxy inward, explaining dark matter halos
+
+banasch tarski - axiom of choice makes the monster group pop up
+
+how many behaviours on bulk do colliding galaxies exhibit, especially in terms of low-number elements like smbhs?  perhaps each gluon is a tiny simulation of a field of galaxies in a hot gluon plasma
+
+what's that one where rama uses forwardslash matrixelement selection to prove dumb shit about a series?  how does that selection relate to the rotation matrix 0,1/1,0
+
+
+how do primes relate to singularities like (1+z^2)^-1?
+
+flip the riemann and attach it to itself at the sides
+
+how does hotel relate to 2 being the only even prime?
+
+is infinity only usable in p-adic spaces?
+hotel riemann
+
+experience organizes the brain, yielding memory and learning
+nearby events have a large effect
+distant effects increasingly have no effect
+this is dark energy
+
+as the final particles tick in, they have less and less influence on the future state of the 
+
+homomorphic
+
+could the toothpick on paper monte carlo pi trick work in 3d with strings?
+
+
+does it have anything to do with holographic principle?  the 2 and the 3 in rieman zeta.  zeta encodes properties of primes. think of the surface of the sphere, and the plane.  maybe i or the singularity at 1,0
+
+its cause you expanded the metric of the space where the numbers are written; you can't always do that, even though the answers converge.  at infinity they can't remember how they got there, and infinitesimals count
+
+bend riemann
+x is 1 2 4, but not 16
+cause e8
+it folds in on itself, and now youre just being redundant/trivial
+
+
+the circle of convergence for (1-z^3)^1/2 and the + one is a string or brane
+
+define a new constant that is what you must multiply 0 by to get 1, or that you can divide 1 by to get 0
+what are its properties?
+
+all matter was formed as hawking radiation
+
+what does squaring the circle problem say about conformal projections
+
+huge but no area
+as we add dimensions, the pythagorean type shit causes our area to shrink to the compactified dimensions, but everything is still asymptotic (influence stretches through cosmos)
+
+
+membrane collision:
+nothingness bifurcated one day.  i can't really describe the weather. but is it so much for one to ask, for the void to be shared equitably?  give us one universe, and leave us alone there.  the creation of universes can be quite nerve-racking, and we would like to sit down and think for a moment.  I see the cracks.
+
+consciousness is experienced in a two dimensional matrix; if we are to call ourselves a single entity in spacetime, then we must accept that we are not also spacetime.  because we seek to differentiate ourselves from the universe, then we are not it, by our own definition.  so now, our minds hold a map - but the map is not the territory, and never can be.  we can only work to make a better map.  in this paradigm, we do not experience the world directly, but instead we experience a map of it.  our consciousness maps it out.
+
+optical illusion of dark matter because
+
+how fast grow
+how fast does the difficulty in confirming a 4color solution grow when one propagates conflicts from the center of a map outwards?  if we fuck up a map, what moves should we make to obscure where the start node of the conflict is?
+
+electrons move much faster than light but they corkscrew.  their forward direction speed is c.  to prove this, we look at the size of the distance between two slits in a double-slit experiment, and how that changes as the experiment is moved around.
+
+
+are black holes anchorspikes?
+if so, pour in suns, to dig in good
+cleat your quasar; prepare for the sport of true emporers.
+
+is it like that one horn thing?
+
+if inside a black hole, could you ever get close to the centerpoint?  does gravity on you decrease once you are far enough inside, because some of the black hole is attracting you from the back side

@@ -1,0 +1,12 @@
+don't forget!
+
+If we have a reciprocal of something raised to a power, we move it to the numerator by changing the sign - NOT by changing the power to its inverse
+
+vi editor - i to insert, :wq to quit
+
+Note: Always place modified copies of prefabs outside of the \FlipWebApps directory so they don’t get overwritten when you update Game Framework.
+
+bijective - no unpaired, all exactly one to one
+
+wiki:injective has good diagram
+

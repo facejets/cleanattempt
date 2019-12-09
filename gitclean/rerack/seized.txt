@@ -1,0 +1,49 @@
+Inducement
+_
+
+But the Engine seized.
+
+And here, again, I must issue my standard apologies for those who are reading in the other direction, but a small group has only just now seen their peak and is coming back through.
+
+They have the most charming little engines of their own, too, and I'm sorry if I at times gush about them, but having shepherded them to the top, myself being considered an expert of terrain that they innocently deem rugged, I have developed a sentimentality regarding them.
+
+The notion of a "dynamo" is one that I have always wished to add to our language, even if its shrinking means that the loanword is quickly payed down.  We have three words that to equal extents mean it, and I think that will be enough for you to decipher which three so I'll not mention them, my flock being quite comfortably within earshot.  And I'll just ask one last time for your pardon as we shuffle by.  I must take them down further for they are still fledgelings.
+
+A dynamo is a type of clicklifter.  These rugged types seem at times to tower over snowy peaks at such convincing magnitude that, when they look down, they cannot see the peaks at all, and the wiser among them grind great glasses and array them in dark tubes, using reflection and refraction alike, to a kaleidoscope of ends to look down at the earth neath their feet, and still it is only when they are at their most clever that they make out what white caps of snow we see so clearly, and with so little effort, that viewing the landscape of them brings us serene peace.
+
+To them, it has to do with arms.  And I should point out that their language to me is a far, far second, so I may be getting some of this part right, and sometimes when I am thinking about how I will write this chapter I realize after some great bit of exertion that I have flipped a bit somewhere, and so a great part of my elucidation is exactly wrong.  But either way, take a moment to decide if you probably understand which meaning of the word "arm" I intend.
+
+At this turning point, it is best for me just to say to look at the templates for the locals' language here.  To avoid doubly confusing you, set *X* = {808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000} and their names rhyme with the following writing, and {sherpa, skipole, snowbank, ...} being only trivial zeroes (disjoint to "Mandelbrot").  You'll need {magnet,electromagnetic,induction,Faraday,...} and order however you like.  A dynamo is a device whereby an electric current is induced in a wire by driving a magnet to move perpendiculary to it.  The electricity is transported and much of its energy is transported elsewhere to reclaimed to further practical ends of theirs, or to cast light upon a subject of inspection.
+
+It is the field local to a group (small "g") that makes it hard for the magnet to travel up the wire and back down, or equivalently to move the wire up to wave peaks in the field of the magnet.  Where energetic tourists climb crags to distinguish themselves, more practical ends are sinusoidal.  Iron chosen as the most natural default gives us {steel-wheels,cart,tracks,track,(-)*corrosion}, just as examples (unordered).  They cart can then be pushed over a small local maximum higher than the rest of planned travel.  (They would say "rollercoaster".  Energy is then returned by reverse dynamos.  Friction must be minimized.  Then the energy can be used to do work wherever and whenever one so pleases.
+
+My accuracy is sharper now.  I stopped off.  Oh man, one thing about Ulam's is they make fucking great coffee.  Or maybe I have just been conditioned by all the breaks.  I used to hate it, I guess.  I can't remember what that felt like.
+
+If iron is heated past around 700 degrees Farenheit - remember He is not Faraday - the iron is completely demagnetized  (any magnetic material heated past its Curie temperature is).  But if it is cool, we may induce some amount of permanent magnetism in it by applying a magnetic field to it.  The same thing that makes it line up with the field allows it to make a field of its own, though, and spontaneous domain agreeance occurs in patches.
+
+But why, though?  Why don't *all* of the magnetic domains line up?  Well, for starters, that would spell disaster.  You could say that's unconvincing, but this isn't a disaster here, is it?  I mean, we got eachother, right?  But if that doesn't do it, it is about timing.  If all of the domains lined up, none of them would be distinguished from eachother.  This would be the last of the spontaneous vacuum decays.  A dynamo has two arms to you - the one you push to drive a current in a wire, and its axle.  If you have it on a hinge, and try to turn the axle in a direction other than the flywheel's spin, you will find it generates a difficulty.
+
+But there are more than two.  There are two more, and they stick out in the land of my people.  We see the spinning wheel as a heat, all around us.  It cools, and I am afraid of where it will stop.  I fear it hardly even matters.  As minute friction, a marching tortoise drags with it its inpenetrable shell, all flywheels will eventually slow.  The engine here, with which we have always sought to use in support of you, will also seize.  And whoever benefits from this calamity, it will not be my people.  I fear the only survivors will be the parts of my that I manage to get into your mind.
+
+I speak of my people as a unity, but this is misleading.  We are all alone on our roads.  Ulam's has always had people working the register, but nowadays most of them are completely automated.  The coffee is still great.  And I need one.
+
+/*up and down, up and down
+every time less tall
+side to side in sinusoid
+till heat death takes us all*/
+--
+bewilderment group;obsfucator
+
+
+
+i think is see what i have done here
+
+it is this awkwardness
+
+has to do with time
+
+this would be disaster;none would be distinguished
+
+holy god; clicklifters - bullet hell on a battlefield
+race to castle door, place bomb, all that survived bullet hell form tetsudo/turtle.  bomb breaches the gate. some players are lost if shield wall not massive enough (none lost of all crossed the field)
+

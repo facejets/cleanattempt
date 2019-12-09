@@ -1,0 +1,43 @@
+aa: you can't win.
+
+bb was silent.  The statement deserved no response.  bb might as well not have heard.  Perhaps he hadn't.
+
+aa: C'mon, let's go get a drink now.  Maybe we can get another game after I loosen up a bit."  And then, when there was still no response, "This week has been tough."
+
+bb Continued to let his clock run down.  The clock had been a Christmas gift from someone in the Secret Santa pool, and bb had been excited to use it.  aa and he had played chess before, but not having a way to time how long each player was taking to move had caused some friction between the pair.  This made it more fair.  Nobody realizes how long they are making the other play wait for a move; it seems so much longer when the freedom to make a move belongs to the other.
+
+aa: We both know this is a draw." A streak of irritation belied aa's knowledge that he had had a clear win going, and had blown it.  His blunder had been even worse than the blunder he had sought to exploit in the other's impressive display.
+
+bb: I gain nothing by knocking over.
+
+Knocking over... for a moment aa stopped being frustrated, and felt instead cathartis.  Work had indeed been hard, and his good friend seemed to be the only thing working to make it any easier.  "Knocking over" was what they called it around the lab, the phrase aa had used when explaining to bb how a game of chess ends.  A game of chess is over when one side's king is endangered, but there is no remedy; when the enemy can take the king "next turn", and nothing can be done about it.  No matter that the king cannot actually ever be taken - it never gets that far; if it is your turn, and you can take the king, then it is not your turn.  It is nobody's turn; the game has already ended.  But this is not the only way a game can end; there were a few ways to tie, including offering a handshake to the other player, which, if accepted, ends the game.  Or when fifty moves are made in succession withot a "pemanent move" such as the advance of a pawn, or the capture of a piece.  And the game also is ended if one side, whether it is their turn or not, deliberately knocks his king - the tallest piece, at least on this board - over.
+
+Aa had explained that the real word for it is 'resign', but regardless the two had taken to using the term for lots of things around the lab - especially when one of the two had had enough of this mindnumbing problem-solving marathon they were engaged in, and collapsed like a Spartan on a piece of the crappy furniture that intruded on their designated workspace, and clumsily tried to make friends with anyone who would condescend to mingle with it.  Often the floor sold itself as being a better option.
+
+bb You're the one who asked to play.
+
+aa What do you mean by that?
+
+It was true; aa had suggested it as a means to pass a few nerve-wracked minutes before they were officially allowed to leave and go blow off steam at the local tap, an obnoxious corporate celebration of kitch from some inspecific decade of the twentieth century, what was built into the side of the ground level of an similarly obnoxious franchise hotel.
+
+And it had not been unreasonable for aa to expect a few minutes to be good enough, as no game the two had played had taken anywhere near as long.  But the chess clock had seemingly brought out a competitive nature? in bb.  Now, instead of smiling and playfully buffeting his pieces around to various posts on the gameboard bb furrowed his brow and cast his eyes downward, frozen like a deer in headlights by the gross number of possibilities, all of them bad.
+
+
+---
+game b
+Not a stalemate.  But an impasse.
+
+Bb pushed a pawn, having no effect on the reality of the game.  A psychological effect, perhaps, as aa reset the count in his mind of how many non-permanent moves must occur before he could forcefully claim a draw by the fifty-move rule.  But the state of the game - not where the pieces were, or whose turn it was, or whether one could still castle or take a pawn in passing, but the state of whether one player or the other can force a win - was unchanged.
+
+aa Why are you playing me, then, if you don't want to?
+
+bb I didn't say that; I said you asked.
+
+aa True.
+
+aa glanced at his clock now and remembered that he had only so much time.  bb's time sat at $length, eight seconds.  This was pretty much the way of things, as the initial reserve of time had long been depleted for bb, leaving only the $length increment that the two had agreed to add to the clock of either player when they moved, plus a few seconds for the sake of safety.
+
+aa had plenty of time remaining, and also had worked out this move quite awhile ago, and made his move.  "I probably would have moved just as fast had he made an unexpected move" aa thought to himself.  Drinks were starting to sound like a very, very good idea; perhaps the best idea anyone had ever had.
+
+In a stunning revival of incredulity that bb would still obstinately fail to 
+

@@ -1,0 +1,14 @@
+down THERE
+
+you can hire soldiers
+you can draft soldiers
+you can march
+you can tax villagers
+you can kill villagers with an army
+you can recruit spies/assassins
+you can raze crops
+you can raze buildings
+you can build siege engines
+
+map grows after each successful safe
+tron 3d yourself to save hapless kungfu prisoner

@@ -1,0 +1,3 @@
+metagame
+
+you collect items that are key-mappings

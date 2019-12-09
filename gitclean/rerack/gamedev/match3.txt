@@ -1,0 +1,1 @@
+place "hold" on move so chain reactions wait for drops before reacting

@@ -1,0 +1,20 @@
+some could be clicked to perform an action
+interactions may take time, on a timed map (melting by hot rivets)
+items can be picked up and dropped on others sometimes
+if stacked in reverse order, they don't react unless something reacts on them, or a special is used, or they are palindromed
+anvil
+blacksmith
+warrior
+fire
+horse
+cannon
+weapon
+water
+food
+bow
+quiver
+shield
+belt
+purse
+map
+crown

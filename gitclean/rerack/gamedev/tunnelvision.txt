@@ -1,0 +1,2 @@
+twin stick shooter handicaps you by switching to first person view, controls remaining the same
+sometimes helps because you can then see the up/down properties of monsters

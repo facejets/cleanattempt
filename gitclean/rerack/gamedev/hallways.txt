@@ -1,0 +1,11 @@
+you cannot see out door
+you cannot enter a door you don't rent
+you can't rent an occupied room
+players may starve
+the longer a hallway goes, the better the loot
+empty rooms reduce loot drops
+dogwalking
+incinerators
+you can throw a bomb out the door
+a player may choose to enter a bomb-proof state, but cannot move thereafter
+you can have neighbors

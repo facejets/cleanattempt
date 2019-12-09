@@ -1,0 +1,3 @@
+ghostly transitions take windows away; their fades seem to snag on other computations, and text spews into blank fields of black.  (steam, labrynthine?)
+
+goes in rpg collecting UI

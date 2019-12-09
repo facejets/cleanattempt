@@ -1,0 +1,8 @@
+I had a similar problem with the knife tool. The solution applies to you:
+
+select the object and enter edit mode
+push k (to use knife tool - for you, push c or something, to circle select instead)
+left click (to choose start point with knife tool)
+push z
+left click when you have it where you want it
+Strange behavior occurs under some circumstances depending on when you push z, and if you hold LMB to drag, and is contingent upon selecting wire frame mode in at least one place (look at 3d view menu icons at top, or in two places in object properties viewport display tab)

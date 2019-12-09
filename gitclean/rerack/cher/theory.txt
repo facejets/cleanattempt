@@ -1,0 +1,9 @@
+find the largest concentric circle shape in the mandelbrot set.  if we try then to zoom out backwards, further - can we find a depiction of e8 root lattice or whatever, outside of the mandlebrot set and containing it, but not smoothly contorting into it because it is simple/irreducible?
+
+in general, can the mandelbrot set be zoomed out of further from -2,-2 to 2,2?
+
+it is hard to break up 3d space into pixels that are not cubes, but our real description is on the surface of our observable universe, and area is easier to cut up into parts in an orderly fashion
+
+says me
+
+gravitating bodies are when these light particles become hopelessly entangled with eachother and cannot escape.
